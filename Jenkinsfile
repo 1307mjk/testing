@@ -1,4 +1,14 @@
-node {
+/* node {
     checkout scm 
-    /* .. snip .. */
-}
+    /* .. snip .. */ } */
+
+
+node {
+    
+
+    stage('Clone repository') {
+       
+        checkout scm
+    }
+
+   
