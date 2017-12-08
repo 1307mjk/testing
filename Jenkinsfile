@@ -8,6 +8,6 @@ node {
         checkout scm
     }
     
-    sh "docker run -ti /home/test/Desktop/test/test-je"
+    sh "docker run -ti /home/test/Desktop/test/test"
 
 }
