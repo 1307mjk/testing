@@ -1,6 +1,3 @@
-/* node {
-    checkout scm 
-    /* .. snip .. */ } */
 
 
 node {
